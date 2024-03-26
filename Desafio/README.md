@@ -8,6 +8,10 @@ Também envolvendo a responsividade!</p>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<br>
+:iphone:<img src="https://github.com/Rafaelpidias/Positive-congrats-css/blob/master/WCL%20Responsivo.PNG?raw=true">
+:computer:<img width="75%" src="https://github.com/Rafaelpidias/Positive-congrats-css/blob/master/Wide%20Coverage%20Location%20Dskt.PNG?raw=true">
+
 
 
 
